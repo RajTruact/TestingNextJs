@@ -1,12 +1,12 @@
-import Tabnavbar from "@/components/spectrumui/tabnavbar";
 import React from "react";
 // import { ProfileForm } from "./_components/ProfileForm";
 import { SimpleForm } from "./_components/SimpleForm";
+import Navbar from "./_components/Navbar";
 
 const FormPage = () => {
   return (
     <div>
-      <Tabnavbar />
+      <Navbar />
       <SimpleForm />
       {/* <ProfileForm /> */}
     </div>
