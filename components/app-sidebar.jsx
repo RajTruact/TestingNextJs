@@ -46,13 +46,13 @@ const data = {
       icon: IconDashboard,
     },
     {
-      title: "Lifecycle",
-      url: "#",
+      title: "Kanban Reports",
+      url: "/kanban",
       icon: IconListDetails,
     },
     {
-      title: "Analytics",
-      url: "#",
+      title: "Data Display",
+      url: "/data-display",
       icon: IconChartBar,
     },
     {
