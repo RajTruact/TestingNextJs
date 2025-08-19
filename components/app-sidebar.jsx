@@ -41,28 +41,28 @@ const data = {
   },
   navMain: [
     {
-      title: "Dashboard",
-      url: "/forms",
+      title: "Tailwind Navbar",
+      url: "/navbar",
       icon: IconDashboard,
     },
     {
-      title: "Kanban Reports",
-      url: "/kanban",
+      title: "Forms",
+      url: "/forms",
       icon: IconListDetails,
     },
     {
-      title: "Data Display",
-      url: "/data-display",
+      title: "Kanban",
+      url: "/kanban",
       icon: IconChartBar,
     },
     {
-      title: "Projects",
-      url: "#",
+      title: "Raj",
+      url: "/raj",
       icon: IconFolder,
     },
     {
-      title: "Team",
-      url: "#",
+      title: "Truact",
+      url: "/truact/raj",
       icon: IconUsers,
     },
   ],
@@ -120,16 +120,16 @@ const data = {
       url: "#",
       icon: IconSettings,
     },
-    {
-      title: "Get Help",
-      url: "#",
-      icon: IconHelp,
-    },
-    {
-      title: "Search",
-      url: "#",
-      icon: IconSearch,
-    },
+    // {
+    //   title: "Get Help",
+    //   url: "#",
+    //   icon: IconHelp,
+    // },
+    // {
+    //   title: "Search",
+    //   url: "#",
+    //   icon: IconSearch,
+    // },
   ],
   documents: [
     {
